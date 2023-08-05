@@ -15,11 +15,25 @@ body {
 .all-tour-container {
   position: absolute;
   top: 80px;
-  right: 8px;
+  right: 24px;
+  border-color: white;
+  border-style: solid;
+  padding: 0 15px 750px;
+  border-radius: 10px;
 }
 
 .all-music-container {
   position: absolute;
   top: 80px;
-  left: 8px;
+  left: 24px;
+  border-color: white;
+  border-style: solid;
+  background-color: white;
+  color: black;
+  padding: 0 15px 15px;
+  border-radius: 10px;
+}
+
+.yeat-logo {
+  margin-left: 16px;
 }
